@@ -121,3 +121,13 @@ LOG_LEVEL=INFO
 
 - **CoinGecko** — OHLCV price history, market cap (free, no API key required)
 - **Alternative.me** — Fear & Greed index history (free)
+
+## Demo
+
+| Research & Signals | AI Research Brief |
+|---|---|
+| ![Research](assets/demo/1.png) | ![Brief](assets/demo/2.png) |
+
+| Backtest Results | Strategy Comparison |
+|---|---|
+| ![Backtest](assets/demo/3.png) | ![Compare](assets/demo/4.png) |
